@@ -5,3 +5,8 @@ More info on Palo Alto's EDL usage here: https://docs.paloaltonetworks.com/pan-o
 and
 
 https://docs.paloaltonetworks.com/resources/edl-hosting-service
+
+
+DISCLAIMER:
+
+I take absolutely ZERO responsibiltiy for the accuracy, usage, implications or otherwise usage of this list. Use at your own risk, it is not maintained nor is it 100% accurate at the time of publication. There are many other ways to accomplish this same list, probably better and easier to use - DO NOT EXPECT SUPPORT ON THIS LIST, NOR WILL I PROVIDE SUPPORT.
