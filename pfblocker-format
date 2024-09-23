@@ -1,10 +1,13 @@
-pornhub.com
-xvideos.com
-xhamster.com
-onlyfans.com
-redgifs.com
-redtube.com
-youporn.com
-newsfilter.org
-theync.com
-water.com
+# Title: PFBlockerNG compatible list
+# Description: Add/Remove entries as needed
+# Expires: Never
+0.0.0.0 pornhub.com
+0.0.0.0 xvideos.com
+0.0.0.0 xhamster.com
+0.0.0.0 onlyfans.com
+0.0.0.0 redgifs.com
+0.0.0.0 redtube.com
+0.0.0.0 youporn.com
+0.0.0.0 newsfilter.org
+0.0.0.0 theync.com
+0.0.0.0 water.com
