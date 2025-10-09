@@ -6,6 +6,8 @@
 *.redtube.com/
 *.youporn.com/
 *.newsfilter.org/
-*.theync.com/
+^theync.com
 *.water.com/
+*.xxx
 //above is for testing purposes
+
